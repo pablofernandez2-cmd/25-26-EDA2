@@ -2,9 +2,9 @@
 
 Repo de materiales y proyectos de la asignatura **EDA2** del [Grado de Ingeniería Informática](https://www.uneatlantico.es/escuela-politecnica-superior/estudios-grado-oficial-en-ingenieria-informatica) la [Universidad Europea del Atlántico](https://www.uneatlantico.es).
 
-## Curso *[25][26]*
+## Curso [25][26]
 
-- [Temario](temario/README.md)
+- [Temario](https://github.com/mmasias/EDA2)
   - [A día de hoy, deberíamos saber...](temario/aDiaDeHoy.md)
   - [Casos de uso](temario/casosDeUso/README.md)
   - [Ejercicios](temario/ejercicios/README.md)
